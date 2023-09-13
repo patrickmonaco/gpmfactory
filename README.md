@@ -1,6 +1,6 @@
 # gpmfactory APEX tools
 Gmfactory repository
-Miscelaneous tools.
+Miscellaneous tools.
 
 1. Generates a code snippet for a popup lov item
  generates the "Initialization JavaScript Function" attribute
